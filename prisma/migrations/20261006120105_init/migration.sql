@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Cpf" ALTER COLUMN "numero" SET DATA TYPE TEXT;
